@@ -1,4 +1,4 @@
-![Logo](logo.png)#Free Code Camp Guide  
+![Logo](logo.png) # Free Code Camp Guide  
 
 A Guide that I am working on to not only better myself, but to help whomever else.   
 
