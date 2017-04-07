@@ -1,7 +1,7 @@
 "use strict";
 
 var expect = require('chai').expect,
-    whatIsInAName = require('./whereforeArtThou.js');
+    whatIsInAName = require('../whereforeArtThou.js');
 
 describe('WhatIsInAName', function() {
     it('should return an array of all objects that have matching property and value pairs', function() {
